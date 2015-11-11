@@ -1,0 +1,19 @@
+{
+  "name": "tupper",
+  "version": "0.0.1",
+  "description": "Frontend assets for Waffles.fm, built with webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wafflesfm/tupper.git"
+  },
+  "author": "Edgewyn <edgewyn@waffles.fm>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/wafflesfm/tupper/issues"
+  },
+  "homepage": "https://github.com/wafflesfm/tupper#readme"
+}
